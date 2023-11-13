@@ -397,7 +397,7 @@ void O3_CPU::read_from_trace()
 
                         num_branch++;
 
-			uint8_t branch_prediction = true;
+			            uint8_t branch_prediction = true;
                         bool cond_branch = false;
                         switch(IFETCH_BUFFER.entry[ifetch_buffer_index].branch_type)
                         {
@@ -410,12 +410,17 @@ void O3_CPU::read_from_trace()
                             break;
                         }
 
-			uint64_t predicted_branch_target = 0;
+			            uint64_t predicted_branch_target = 0;
                         uint8_t branch_source = target_pred.predict_target(IFETCH_BUFFER.entry[ifetch_buffer_index].ip,
                                                                            IFETCH_BUFFER.entry[ifetch_buffer_index].branch_type,
                                                                            predicted_branch_target);
+                        if (warmup_complete[cpu]){
+                            btb_loads++;
+                            if(branch_source) btb_lhits++;
+                            else btb_lmisses++;
+                        }
 
-			if(branch_prediction == 1)
+			            if(branch_prediction == 1)
                           {
                             if(branch_source == 0) // BTB miss
                             {
@@ -442,8 +447,8 @@ void O3_CPU::read_from_trace()
                             }
                           }
 
-			// call code prefetcher every time the branch predictor is used
-			l1i_prefetcher_branch_operate(IFETCH_BUFFER.entry[ifetch_buffer_index].ip,
+			            // call code prefetcher every time the branch predictor is used
+			            l1i_prefetcher_branch_operate(IFETCH_BUFFER.entry[ifetch_buffer_index].ip,
 						      IFETCH_BUFFER.entry[ifetch_buffer_index].branch_type,
 						      predicted_branch_target);
 			
@@ -454,18 +459,18 @@ void O3_CPU::read_from_trace()
                             is_branch_mispredict = predicted_branch_target != IFETCH_BUFFER.entry[ifetch_buffer_index].branch_target;
                         }
 
-			if(is_branch_mispredict)
-			  {
-			    branch_mispredictions++;
-			    total_rob_occupancy_at_branch_mispredict += ROB.occupancy;
-			    if(warmup_complete[cpu])
-			      {
-				fetch_stall = 1;
-				instrs_to_read_this_cycle = 0;
-				IFETCH_BUFFER.entry[ifetch_buffer_index].branch_mispredicted = 1;
-			      }
-			  }
-			else if(branch_prediction == 1) // correct preidiction taken
+                        if(is_branch_mispredict)
+                        {
+                            branch_mispredictions++;
+                            total_rob_occupancy_at_branch_mispredict += ROB.occupancy;
+                            if(warmup_complete[cpu])
+                            {
+                            fetch_stall = 1;
+                            instrs_to_read_this_cycle = 0;
+                            IFETCH_BUFFER.entry[ifetch_buffer_index].branch_mispredicted = 1;
+                            }
+                        }
+                        else if(branch_prediction == 1) // correct preidiction taken
                         {
                              switch(branch_source)
                              {
@@ -514,6 +519,11 @@ void O3_CPU::read_from_trace()
                             target_pred.update_target(IFETCH_BUFFER.entry[ifetch_buffer_index].ip,
                                                       IFETCH_BUFFER.entry[ifetch_buffer_index].branch_type,
                                                       IFETCH_BUFFER.entry[ifetch_buffer_index].branch_target);
+                            if (warmup_complete[cpu]){
+                                btb_stores++;
+                                if(branch_source) btb_shits++;
+                                else btb_smisses++;
+                            }
                             target_pred.update_history(IFETCH_BUFFER.entry[ifetch_buffer_index].ip,
                                                        IFETCH_BUFFER.entry[ifetch_buffer_index].branch_type,
                                                        IFETCH_BUFFER.entry[ifetch_buffer_index].branch_target);
@@ -523,6 +533,11 @@ void O3_CPU::read_from_trace()
                             target_pred.update_target(IFETCH_BUFFER.entry[ifetch_buffer_index].ip,
                                                       IFETCH_BUFFER.entry[ifetch_buffer_index].branch_type,
                                                       0); // for not-taken case, target is 0
+                            if (warmup_complete[cpu]){
+                                btb_stores++;
+                                if(branch_source) btb_shits++;
+                                else btb_smisses++;
+                            }
                         }
                     }
 

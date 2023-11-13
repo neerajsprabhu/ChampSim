@@ -25,15 +25,15 @@ uint8_t BRANCH_TARGET_PRED::predict_target(uint64_t ip, uint8_t type, uint64_t &
     ittage_alt_diff =  0;
 
     bool ubtb_hit = false;
-    uint64_t ubtb_idx = (ip >> 2) & (UBTB_NSET-1);
-    for(int ubtb_way=0; ubtb_way<UBTB_NWAY; ubtb_way++)
-    {
-        BTB_entry& entry = ubtb_set[ubtb_idx][ubtb_way];
-        if(entry.tag == btb_tag)
-        {
-            ubtb_hit = true;
-        }
-    }
+    // uint64_t ubtb_idx = (ip >> 2) & (UBTB_NSET-1);
+    // for(int ubtb_way=0; ubtb_way<UBTB_NWAY; ubtb_way++)
+    // {
+    //     BTB_entry& entry = ubtb_set[ubtb_idx][ubtb_way];
+    //     if(entry.tag == btb_tag)
+    //     {
+    //         ubtb_hit = true;
+    //     }
+    // }
 
     for(btb_way=0; btb_way<BTB_NWAY; btb_way++)
     {
@@ -43,12 +43,12 @@ uint8_t BRANCH_TARGET_PRED::predict_target(uint64_t ip, uint8_t type, uint64_t &
             // default target setting
             target = entry.target;
             if((ras_size > 0) && (type == BRANCH_RETURN)) target = ras[ras_top];
-            if(entry.indirect)
-            {
-                // indirect predictor lookup
-                target = ittage_predict(ip, target);
-                return 2; // indirect target
-            }
+            // if(entry.indirect)
+            // {
+            //     // indirect predictor lookup
+            //     target = ittage_predict(ip, target);
+            //     return 2; // indirect target
+            // }
             return ubtb_hit ? 1 : 2;
         }
     }
@@ -66,36 +66,36 @@ void BRANCH_TARGET_PRED::update_target(uint64_t ip, uint8_t type, uint64_t targe
     uint64_t vic_way = 0;
 
     // micro predictor update
-    if((type != BRANCH_INDIRECT) && (type != BRANCH_INDIRECT_CALL) && (target != 0))
-    {
-        bool ubtb_hit = false;
-        uint64_t ubtb_idx = (ip >> 2) & (UBTB_NSET-1);
-        uint64_t ubtb_vic = 0;
-        for(int ubtb_way=0; ubtb_way<UBTB_NWAY; ubtb_way++)
-        {
-            BTB_entry& entry = ubtb_set[ubtb_idx][ubtb_way];
-            if(entry.tag == btb_tag)
-            {
-                ubtb_hit = true;
-                entry.rrpv = 3;
-                if(entry.rrpv < ubtb_set[ubtb_idx][ubtb_vic].rrpv) ubtb_vic = ubtb_way;
-                break;
-            }
-        }
-        if(!ubtb_hit)
-        {
-            BTB_entry& entry = ubtb_set[ubtb_idx][ubtb_vic];
-            for(int ubtb_way=0; ubtb_way<UBTB_NWAY; ubtb_way++)
-            {
-                if(ubtb_way != ubtb_vic)
-                {
-                    ubtb_set[ubtb_idx][ubtb_way].rrpv -= entry.rrpv;
-                }
-            }
-            entry.tag = btb_tag;
-            entry.rrpv = 1;
-        }
-    }
+    // if((type != BRANCH_INDIRECT) && (type != BRANCH_INDIRECT_CALL) && (target != 0))
+    // {
+    //     bool ubtb_hit = false;
+    //     uint64_t ubtb_idx = (ip >> 2) & (UBTB_NSET-1);
+    //     uint64_t ubtb_vic = 0;
+    //     for(int ubtb_way=0; ubtb_way<UBTB_NWAY; ubtb_way++)
+    //     {
+    //         BTB_entry& entry = ubtb_set[ubtb_idx][ubtb_way];
+    //         if(entry.tag == btb_tag)
+    //         {
+    //             ubtb_hit = true;
+    //             entry.rrpv = 3;
+    //             if(entry.rrpv < ubtb_set[ubtb_idx][ubtb_vic].rrpv) ubtb_vic = ubtb_way;
+    //             break;
+    //         }
+    //     }
+    //     if(!ubtb_hit)
+    //     {
+    //         BTB_entry& entry = ubtb_set[ubtb_idx][ubtb_vic];
+    //         for(int ubtb_way=0; ubtb_way<UBTB_NWAY; ubtb_way++)
+    //         {
+    //             if(ubtb_way != ubtb_vic)
+    //             {
+    //                 ubtb_set[ubtb_idx][ubtb_way].rrpv -= entry.rrpv;
+    //             }
+    //         }
+    //         entry.tag = btb_tag;
+    //         entry.rrpv = 1;
+    //     }
+    // }
 
     // search hitting entry and victim selection
     bool btb_hit = false;
@@ -142,25 +142,25 @@ void BRANCH_TARGET_PRED::update_target(uint64_t ip, uint8_t type, uint64_t targe
         {
             // for regular branch case
             if(target != 0) hit_entry.target = target;
-            hit_entry.indirect = 0;
-            hit_entry.confidence = 0;
+            // hit_entry.indirect = 0;
+            // hit_entry.confidence = 0;
         }
         else
         {
             assert(target != 0);
             // for indirect branch case
-            if(hit_entry.target != target)
-            {
-                hit_entry.indirect = true;
-            }
-            if(hit_entry.indirect)
-            {
-                // indirect predictor update
-                uint64_t predicted_target = 0;
-                predict_target(ip, type, predicted_target);
-                bool mispred = predicted_target != target;
-                ittage_update(hit_entry, target, mispred);
-            }
+            // if(hit_entry.target != target)
+            // {
+            //     hit_entry.indirect = true;
+            // }
+            // if(hit_entry.indirect)
+            // {
+            //     // indirect predictor update
+            //     uint64_t predicted_target = 0;
+            //     predict_target(ip, type, predicted_target);
+            //     bool mispred = predicted_target != target;
+            //     ittage_update(hit_entry, target, mispred);
+            // }
         }
     }
 }
