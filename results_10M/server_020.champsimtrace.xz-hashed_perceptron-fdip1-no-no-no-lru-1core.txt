@@ -1,0 +1,2139 @@
+
+*** ChampSim Multicore Out-of-Order Simulator ***
+
+Warmup Instructions: 1000000
+Simulation Instructions: 10000000
+Number of CPUs: 1
+LLC sets: 2048
+LLC ways: 16
+Off-chip DRAM Size: 4096 MB Channels: 1 Width: 64-bit Data Rate: 3200 MT/s
+
+CPU 0 runs /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+CPU 0 L1I next line prefetcher
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+sh: xz: command not found
+*** Reached end of trace for Core: 0 Repeating trace: /Users/neeraj/Documents/BTP/ChampSim/dpc3_traces/server_020.champsimtrace.xz
+Caught signal: 2

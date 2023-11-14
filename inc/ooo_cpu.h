@@ -52,6 +52,8 @@ class O3_CPU {
   public:
     uint32_t cpu;
 
+    uint64_t btb_loads=0, btb_lhits=0, btb_lmisses=0, btb_stores=0, btb_shits=0, btb_smisses=0;
+
     // trace
     FILE *trace_file;
     char trace_string[1024];
