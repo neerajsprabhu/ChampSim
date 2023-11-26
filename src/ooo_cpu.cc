@@ -6,7 +6,7 @@
 O3_CPU ooo_cpu[NUM_CPUS]; 
 uint64_t current_core_cycle[NUM_CPUS], stall_cycle[NUM_CPUS];
 uint32_t SCHEDULING_LATENCY = 0, EXEC_LATENCY = 0, DECODE_LATENCY = 0;
-uint32_t FTQ_SIZE = 24;
+uint32_t FTQ_SIZE = 128;
 
 void O3_CPU::initialize_core()
 {
