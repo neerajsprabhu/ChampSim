@@ -968,5 +968,10 @@ int main(int argc, char** argv)
     print_branch_stats();
 #endif
 
+    for (uint32_t i=0; i<NUM_CPUS; i++) {
+        cout<<"BTB Loads: "<<setw(10)<<ooo_cpu[i].btb_loads<<" Hits: "<<setw(10)<<ooo_cpu[i].btb_lhits<<" Misses: "<<setw(10)<<ooo_cpu[i].btb_lmisses<<endl;
+        cout<<"BTB Stores: "<<setw(10)<<ooo_cpu[i].btb_stores<<" Hits: "<<setw(10)<<ooo_cpu[i].btb_shits<<" Misses: "<<setw(10)<<ooo_cpu[i].btb_smisses<<endl;
+    }
+
     return 0;
 }

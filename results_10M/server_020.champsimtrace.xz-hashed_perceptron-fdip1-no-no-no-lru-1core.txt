@@ -14,7 +14,7 @@ CPU 0 L1I next line prefetcher
 Warmup complete CPU 0 instructions: 1000003 cycles: 390476 (Simulation time: 0 hr 0 min 1 sec) 
 
 Heartbeat CPU 0 instructions: 10000003 cycles: 28088939 heartbeat IPC: 0.356012 cumulative IPC: 0.324928 (Simulation time: 0 hr 0 min 21 sec) 
-Finished CPU 0 instructions: 10000003 cycles: 30897606 cumulative IPC: 0.32365 (Simulation time: 0 hr 0 min 24 sec) 
+Finished CPU 0 instructions: 10000003 cycles: 30897606 cumulative IPC: 0.32365 (Simulation time: 0 hr 0 min 23 sec) 
 
 ChampSim completed all CPUs
 
@@ -72,3 +72,5 @@ BRANCH_INDIRECT_CALL: 33624 0.33624%
 BRANCH_RETURN: 182664 1.82664%
 BRANCH_OTHER: 0 0%
 
+BTB Loads:    1653685 Hits:     203032 Misses:    1450653
+BTB Stores:     985828 Hits:     194845 Misses:     790983
