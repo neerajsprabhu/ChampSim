@@ -11,11 +11,13 @@ void BRANCH_TARGET_PRED::initialize()
     {
         ittage_hlen[i] = (int)((MIN_HIST * pow(alpha, i)) + 0.5);
     }
+    lru_counter=0;
 }
 
 // make target prediction
 uint8_t BRANCH_TARGET_PRED::predict_target(uint64_t ip, uint8_t type, uint64_t &target)
 {
+    lru_counter++;
     uint64_t btb_idx = (ip >> BTB_OFFSET) & (BTB_NSET-1) & BTB_SET_MASK;
     uint64_t btb_tag = ip;
     uint64_t btb_way = 0;
@@ -60,6 +62,7 @@ uint8_t BRANCH_TARGET_PRED::predict_target(uint64_t ip, uint8_t type, uint64_t &
 // update branch predictor
 void BRANCH_TARGET_PRED::update_target(uint64_t ip, uint8_t type, uint64_t target)
 {
+    lru_counter++;
     uint64_t btb_idx = (ip >> BTB_OFFSET) & (BTB_NSET-1) & BTB_SET_MASK;
     uint64_t btb_tag = ip;
     uint64_t btb_way = 0;
@@ -106,14 +109,6 @@ void BRANCH_TARGET_PRED::update_target(uint64_t ip, uint8_t type, uint64_t targe
         {
             btb_hit = true;
             break;
-        }
-        if(entry.rrpv > 3)
-        {
-            entry.rrpv = 3;
-        }
-        if(entry.rrpv < btb_set[btb_idx][vic_way].rrpv)
-        {
-            vic_way = btb_way;
         }
     }
 
