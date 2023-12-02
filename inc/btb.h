@@ -30,9 +30,9 @@ private:
     static const int UBTB_NWAY = 2;
     static const int UBTB_NBIT = 6;
     static const int UBTB_NSET = 1 << UBTB_NBIT;
-    static const int BTB_NWAY = 116;
-    static const int BTB_NBIT = 11;
-    static const int BTB_NSET = 1;
+    static const int BTB_NWAY = 8;
+    static const int BTB_NBIT = 32;
+    static const int BTB_NSET = 1024;
     static const int RAS_SIZE = 32;
     static const uint32_t BTB_OFFSET = 4;
     static const uint32_t BTB_SET_MASK = (1 << 11) - 1;
