@@ -40,7 +40,7 @@ extern uint32_t SCHEDULING_LATENCY, EXEC_LATENCY, DECODE_LATENCY, FTQ_SIZE;
 // branch predictor capability
 #define ENABLE_REALISTIC_BP 1 // do not allow to update branch history for BTB-miss NT
 #define ENABLE_REPAIR_PIPE  0 // repair branch history
-#define ENABLE_PERFECT_BTB  1 // perfect BTB
+#define ENABLE_PERFECT_BTB  0 // perfect BTB
 #define ALWAYS_BTB_UPDATE   0 // BTB update for NT branches
 
 // Basic parameter for fetch directed instruction prefetch
