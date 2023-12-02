@@ -19,10 +19,10 @@ private:
 
     // parameters
     static const int BTB_NWAY = 8;
-    static const int BTB_NSET = 32;
-    static const int BTB_NSET_XC = 4;
+    static const int BTB_NSET = 256;
+    static const int BTB_NSET_XC = 32;
     static const int RAS_SIZE = 64;
-    static const uint32_t BTB_OFFSET = 4;
+    static const uint32_t BTB_OFFSET = 0;
     static const uint32_t BTB_SET_MASK = (1 << 11) - 1;
 
     uint64_t lru_counter;
